@@ -1,4 +1,7 @@
-# Past League Winners
+---
+title: Past League Winners
+description: The Sunday Open decides its champions with a playoff format
+---
 
 ## 2017-2018 
 * Craig Whitaker br>
