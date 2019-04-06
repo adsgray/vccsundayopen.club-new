@@ -4,7 +4,7 @@ description: The Sunday Open decides its champions with a playoff format
 ---
 
 ## 2017-2018 
-* Craig Whitaker br>
+* Craig Whitaker
 * Hamish Macdonald
 * Steve Adrian
 * John Scholefield
