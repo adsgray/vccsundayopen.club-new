@@ -1,22 +1,22 @@
 
-# Important Dates
+## Important Dates
 * news 1
 * news 2
 
-# 2019 - 2020 Season
+## 2019 - 2020 Season
 The Sunday Open is looking for teams and individuals looking to play in in the league next year. 
 
-# Draw & Results
+## Draw & Results
 * Full Season
 * Playoffs
 
-# League Info
+## League Info
 Format, rules, tiebreakers and playoffs. PDF link.
 
-# Spares list
+## Spares list
 Team rep
 
-# Past League Winners
-Link
+## Past League Winners
+[Champs](pastchamps.html)
 
-# League Background
+## League Background
